@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 20 11:03:24 2019
-
-@author: User
-"""
-
 a=lambda x:x*3  #lambda寫法
 
 def b (x):      #標準寫法
