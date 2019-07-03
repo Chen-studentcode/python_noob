@@ -26,9 +26,9 @@ print(c.index)             #顯示有哪些索引
 print('')
 print(c.values)            #顯示有哪些資料
 # =============================================================================
-# Series格式 (二維陣列)
+# Series格式 (二維陣列) loc&iloc 用法與DataFrame格式相同
 # =============================================================================    
 d=pd.Series(b)      #轉Series格式
-print(d.index)      #顯示有哪些索引
+print(d.index)      #顯示有哪些索引 RangeIndex(start=0, stop=6, step=1)
 print('')
-print(d.values)     #顯示有哪些資料
+print(d.values)     #顯示有哪些資料 ['a' 'b' 'c' 'd' 'e' 'f']
