@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 10 15:14:30 2019
 
-@author: User
-"""
 
 
 def test_args(*args):      #值或LIST
