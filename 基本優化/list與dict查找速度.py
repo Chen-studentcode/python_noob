@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 20 11:32:22 2019
 
-@author: User
-"""
 from time import time 
 t = time() 
 list = ['a','b','is','python','jason','hello','hill','with','phone','test', 
